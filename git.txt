@@ -1,4 +1,5 @@
 hello git
 today is wednesday 
 --------------------
-today is beggining
+today is beginning
+my role
